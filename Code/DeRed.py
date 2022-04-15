@@ -1,11 +1,9 @@
 import time
 import os
-# import Loss
 import tensorflow as tf
 import numpy as np
 from keras.optimizers import Adam
 from keras.layers import Input
-# from keras.models import Model
 import Model
 import Util
 
